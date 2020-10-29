@@ -1,3 +1,5 @@
+Contents of this repository was moved to [rg3d/rg3d-ui](https://github.com/mrDIMAS/rg3d/tree/master/rg3d-ui) and development will be continued there.
+
 # rg3d-ui
 
 Retained mode, general purpose, graphics API agnostic user interface library. Inspired by WPF.
